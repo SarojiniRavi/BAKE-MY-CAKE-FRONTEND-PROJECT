@@ -1,0 +1,220 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "category": "Cake",
+      "image": "assets/images/Berries Summer Cupcakes.jpg",
+      "price": 200,
+      "name": "Berries Summer Cupcakes",
+      "rating": "4.3",
+      "description": "Summer Berry Cupcakes Deliciously moist and fluffy vanilla cupcakes stuffed with summer berries, and topped with a sweet buttercream frosting!"
+    },
+    {
+      "id": 2,
+      "category": "Brownies",
+      "image": "assets/images/Brownies Different Flavor.jpg",
+      "price": 100,
+      "name": "Brownies Different Flavor",
+      "rating": "3.3",
+      "description": "Coffee and dark chocolate are a tried and tested match made in heaven. The Kitchn has delicious coffee brownies recipes in two keys, one for a moist and gooey experience, and the other for an altogether cakier crumb."
+    },
+    {
+      "id": 3,
+      "category": "Cookies",
+      "image": "assets/images/Butter Cookies.jpg",
+      "price": 150,
+      "name": "Butter Cookies",
+      "rating": "2.4",
+      "description": "Butter cookies, also known as Danish biscuits, are cookies originating in Denmark consisting of butter, flour, and sugar. They are similar to shortbread cookies."
+    },
+    {
+      "id": 4,
+      "category": "Cake",
+      "image": "assets/images/Cherry Jelly Cheesecake.jpg",
+      "price": 300,
+      "name": "Cherry Jelly Cheesecake",
+      "rating": "5.0",
+      "description": "cherry blossom cheesecake to celebrate spring's most beautiful flower! A light and smooth cheesecake sits on top of a speculoos cookie crust. The highlight of this cheesecake is the jelly layer."
+    },
+    {
+      "id": 5,
+      "category": "Cake",
+      "image": "assets/images/Chocolate Blueberries Cake.jpg",
+      "price": 250,
+      "name": "Chocolate Blueberries Cake",
+      "rating": "3.8",
+      "description": "This layered blueberry chocolate cake is very simple to make. It combines fresh flavors in the frosting, both lemon and blueberry. It pairs nicely with the chocolate."
+    },
+    {
+      "id": 6,
+      "category": "Cake",
+      "price": 200,
+      "image": "assets/images/Chocolate Bonbons.jpg",
+      "name": "Chocolate Bonbons",
+      "rating": "2.3",
+      "description": "A bonbon is a chocolate shell filled with literally anything, usually a flavored ganache, caramel, or jelly."
+    },
+    {
+      "id": 7,
+      "category": "Cookies",
+      "image": "assets/images/Chocolate Cookies.jpg",
+      "price": 150,
+      "name": "Chocolate Cookies",
+      "rating": "4.3",
+      "description": "A chocolate chip cookie is a drop cookie that features chocolate chips or chocolate morsels as its distinguishing ingredient"
+    },
+    {
+      "id": 8,
+      "category": "Cake",
+      "image": "assets/images/Chocolate Cupcake.jpg",
+      "price": 100,
+      "name": "Chocolate Cupcake",
+      "rating": "1.3",
+      "description": "Chocolate cupcakes are the ultimate party food. These are super moist and bursting with rich, chocolaty flavor — and they're so easy to make."
+    },
+    {
+      "id": 9,
+      "category": "Cake",
+      "image": "assets/images/Chocolate Summer Berries.jpg",
+      "price": 200,
+      "name": "Chocolate Summer Berries",
+      "rating": "4.7",
+      "description": "This silky Dark Milk chocolate bar is topped with strawberries, blueberries, cherries and cookie crunch, the perfect combination of chocolates and tanginess with every bite."
+    },
+    {
+      "id": 10,
+      "category": "Cake",
+      "image": "assets/images/Classic Cheesecake.jpg",
+      "price": 350,
+      "name": "Classic Cheesecake",
+      "rating": "4.9",
+      "description": "The perfect classic cheesecake is rich, not too dense, silky smooth, and as creamy as can be. "
+    },
+    {
+      "id": 11,
+      "category": "Cake",
+      "image": "assets/images/Cookies Cream Cake.jpg",
+      "price": 300,
+      "name": "Cookies Cream Cake",
+      "rating": "4.1",
+      "description": "his is soft and buttery white cake filled with cream-filled chocolate sandwich cookies (Oreos!). Top with light and fluffy whipped cream frosting. "
+    },
+    {
+      "id": 12,
+      "category": "Cake",
+      "image": "assets/images/Easter Cupcakes.jpg",
+      "price": 150,
+      "name": "Easter Cupcakes",
+      "rating": "2.7",
+      "description": " These easy Easter cupcake recipes feature some of spring's best including Cadbury eggs, edible flowers, and other adorable decorations."
+    },
+    {
+      "id": 13,
+      "category": "Cake",
+      "image": "assets/images/Fruit Cake.jpg",
+      "price": 150,
+      "name": "Fruit Cake",
+      "rating": "4.7",
+      "description": "Fruitcake is a cake made with candied or dried fruit, nuts, and spices, and optionally soaked in spirits. In the United Kingdom, certain rich versions may be iced and decorated. Fruitcakes are usually served in celebration of weddings and Christmas"
+    },
+    {
+      "id": 14,
+      "category": "Brownies",
+      "image": "assets/images/Isometric chocolate brownies.jpg",
+      "price": 100,
+      "name": "Isometric chocolate brownies",
+      "rating": "4.0",
+      "description": "A brownie is a dense chocolate-flavored baked good traditionally served in small squares. Brownies often contain ingredients like nuts or extracts to give them a distinct flavor other than pure chocolate"
+    },
+    {
+      "id": 15,
+      "category": "Cake",
+      "image": "assets/images/Monster Theme Cake.jpg",
+      "price": 450,
+      "name": "Monster Theme Cake",
+      "rating": "1.7",
+      "description": "the “Royal Recipe” quest, you can find the recipe for Monster Cake in the Hyrule Castle Library. Gather the necessary ingredients, then find a pot to cook in and bake yourself a Monster Cake."
+    },
+    {
+      "id": 16,
+      "category": "Cake",
+      "image": "assets/images/Muffin Devil Horns.jpg",
+      "price": 120,
+      "name": "Muffin Devil Horns",
+      "rating": "3.2",
+      "description": "Impishly cute and simple to make, these devil cupcakes are a wickedly delicious treat to serve up at any frightful Halloween party or spooky movie night."
+    },
+    {
+      "id": 17,
+      "category": "Cake",
+      "image": "assets/images/Muffin Ghost.jpg",
+      "price": 150,
+      "name": "Muffin Ghost",
+      "rating": "5.0",
+      "description": "This ghost cake is actually made from a simple batch of cupcakes! Pull-apart cupcake cakes are perfect for parties, as guests can easily enjoy a cupcake "
+    },
+    {
+      "id": 18,
+      "category": "Cake",
+      "image": "assets/images/Pumpkin Spice Cupcakes.jpg",
+      "price": 250,
+      "name": "Pumpkin Spice Cupcakes",
+      "rating": "2.9",
+      "description": "This is the best pumpkin cake I've ever had and everyone has been raving over it. It's perfectly moist, soft, spiced, and easy to make!"
+    }
+  ],
+  "customers": [
+    {
+      "customerName": "saro",
+      "phone": "8072262238",
+      "email": "abi@gmail.com",
+      "dateOfOrder": "2023-08-08T18:30:00.000Z",
+      "city": "THENI",
+      "pincode": "625531",
+      "quantity": 6,
+      "totalAmount": 1800,
+      "name": "Cherry Jelly Cheesecake",
+      "price": 300,
+      "id": 1
+    },
+    {
+      "customerName": "Uma",
+      "phone": "8072255909",
+      "email": "uma@gmail.com",
+      "dateOfOrder": "2023-08-09T18:30:00.000Z",
+      "city": "Chennai",
+      "pincode": "600002",
+      "quantity": 6,
+      "totalAmount": 900,
+      "name": "Butter Cookies",
+      "price": 150,
+      "id": 2
+    },
+    {
+      "customerName": "Lesuki",
+      "phone": "9589792433",
+      "email": "lesuki@gmail.com",
+      "dateOfOrder": "2023-08-13T18:30:00.000Z",
+      "city": "THENI",
+      "pincode": "625531",
+      "quantity": 2,
+      "totalAmount": 300,
+      "name": "Chocolate Cookies",
+      "price": 150,
+      "id": 3
+    },
+    {
+      "customerName": "Ravi",
+      "phone": "9876543219",
+      "email": "rabi@gmail.com",
+      "dateOfOrder": "2023-08-08T18:30:00.000Z",
+      "city": "THENI",
+      "pincode": "625531",
+      "quantity": 2,
+      "totalAmount": 200,
+      "name": "Brownies Different Flavor",
+      "price": 100,
+      "id": 4
+    }
+  ]
+}

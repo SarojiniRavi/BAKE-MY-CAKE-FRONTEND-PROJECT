@@ -1,0 +1,11 @@
+<div>
+    <div *ngFor="let cake of mycake" class="card" style="width: 18rem;">
+    <mat-card >
+        <a href="#" routerLink="/order-view/{{cake.id}}"><img src={{cake.image}} class="card-img-top border border-light-subtle"></a>
+        <mat-card-content class="card-body">
+            <h4 class="mt-3">{{cake.name}}</h4>
+            <h3 class="d-flex fs-4">₹ {{cake.price}}  <p class="fs-6 border p-0">{{cake.rating}}<img src="../../assets/images/—Pngtree—shiny gold star clipart illustration_8633179.png" id="rate"></p></h3>
+        </mat-card-content>
+    </mat-card>
+    </div>
+</div>

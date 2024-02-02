@@ -1,0 +1,79 @@
+.input-field{
+    margin-left:100px;
+    margin-top:10px;
+    background-color: white;
+    border:1px soild whitesmoke;
+}
+.option{
+    margin-left:100px;
+}
+.add{
+    margin-left:100px;
+    padding:10px;
+    width:100px;
+    background-color: rgba(0, 135, 177, 0.938);
+    font-weight: bold;
+    color:white;
+    font-size:20px;
+}
+#cakeImage{
+    height:300px;
+}
+#header {
+    display: flex;
+    justify-content: space-between;
+}
+#cake-content {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: flex-start;
+    padding:10px;
+}
+.details{
+    margin-left:200px;
+    color:black;
+}
+h1,h3{
+    color:black;
+}
+h5{
+    margin-left:5px;
+    margin-top:5px;
+    width:50px;
+    height:20px;
+    border:1px soild black;
+    background-color:rgba(0, 135, 177, 0.938);
+    color:white;
+}
+
+#cake-detail {
+    width: 60%;
+    margin-left:70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding : 0 10px;
+}
+.amount{
+    margin-left:100px;
+    color: black;
+}
+#rate{
+    width:50px;
+    height:20px;
+}
+#cake-detail img {
+    width: 90%;
+}
+#date{
+    width:210px;
+}
+#cake-detail p {
+    width: 90%;
+    margin-top: 10px;
+    text-align: justify;
+    font-size:15px;
+    font-style: italic;
+    color:black;
+}

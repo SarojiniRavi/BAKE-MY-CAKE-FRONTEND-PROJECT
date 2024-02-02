@@ -1,0 +1,10 @@
+<div id="login-form">
+    <h3>If you are a Administrator Login to Access the Details</h3>
+    <mat-form-field appearance="fill">
+        <mat-label>Enter Code</mat-label>
+        <input matInput type="password" name="loginCode" [(ngModel)]="loginCode" placeholder="Login Code">
+    </mat-form-field>
+    <br>
+    <button mat-raised-button color="primary" (click)="validateLoginCode()">Submit</button>
+</div>
+<app-footer class="footer"></app-footer>

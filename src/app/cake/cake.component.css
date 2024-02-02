@@ -1,0 +1,10 @@
+
+mat-button-toggle-group{
+    margin-left:500px;
+    margin-top:30px;
+    border-left:10px;
+}
+mat-button-toggle{
+    background-color:rgba(0, 135, 177, 0.938);
+    color:white;
+}

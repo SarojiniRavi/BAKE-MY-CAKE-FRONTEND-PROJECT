@@ -1,0 +1,18 @@
+<mat-toolbar class="header md-6">
+<mat-toolbar-row>
+    <span Class="span md-6">RUSA CAKES</span>
+    <span class="spacer md-6"></span>
+    <button mat-icon-button class="icon" routerLink="/cake">
+      <mat-icon>home</mat-icon>
+      <h5 class="iconName">Home</h5>
+    </button>
+    <button mat-icon-button class="icon"  routerLink="/cake-request-view" *ngIf="!auth.isLoggedIn">
+      <mat-icon>account_circle</mat-icon>
+      <h5 class="iconName">login</h5>
+    </button>
+    <button mat-icon-button class="icon" routerLink=""  *ngIf="auth.isLoggedIn" (click)="validateStatus()">
+      <mat-icon>logout</mat-icon>
+      <h5 class="iconName">logout</h5>
+    </button>
+  </mat-toolbar-row>
+</mat-toolbar>

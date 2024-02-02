@@ -1,0 +1,33 @@
+img{
+    height:200px;
+   
+}
+.card{
+    float:left;
+    margin-left:40px;
+    margin-top:20px;
+    padding:5px;
+}
+.card-body{
+    color:black;
+    font-size: 25px;
+    font-weight:bold;
+    background-color:whitesmoke;
+}
+#rate{
+    width:20px;
+    height:20px;
+    margin-left:5px;
+    margin-top:-5px;
+}
+.border{
+    background-color:rgba(0, 135, 177, 0.938);
+    color:white;
+}
+h3{
+    justify-content: space-between;
+}
+h4{
+    font-size:17px;
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    min-height: 5px;
+    margin-top: auto;
+}
+#footDiv{
+    line-height: 1.7;
+    padding:10px;
+}
+img{
+    width:30px;
+    height:30px;
+    border-radius: 50px;
+}

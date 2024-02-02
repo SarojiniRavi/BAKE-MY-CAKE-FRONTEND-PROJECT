@@ -1,0 +1,11 @@
+<app-search (searchTextChanged)="mysearch($event)" id="search"></app-search>
+<mat-button-toggle-group [(ngModel)]= "searchText">
+    <mat-button-toggle  class="button border border-dark-subtle fs-5" id="cake1" value="Cake" (click)="showFilterCake()">Cake</mat-button-toggle>
+    <mat-button-toggle  class="button border border-dark-subtle fs-5" id="cake2" value="Brownies" (click)="showFilterBrownies()">Brownies</mat-button-toggle>
+    <mat-button-toggle  class="button border border-dark-subtle fs-5" id="cake3" value="Cookies" (click)="showFilterCookies()">Cookies</mat-button-toggle>
+    <mat-button-toggle  class="button border border-dark-subtle fs-5" id="cake3" value="reset" (click)="show()">Reset</mat-button-toggle>
+</mat-button-toggle-group>
+<div>
+    <app-cake-card [mycake]="cakes"></app-cake-card>
+</div>
+<app-footer></app-footer>
